@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHSP-SP001-08-CTDPFJ000-recovered_cspp-ctdpf_j_cspp_instrument_recovered
-last_request: '2022-01-21T19:15:27.301178Z'
+last_request: '2022-02-07T18:37:17.898761Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSP-SP001-08-CTDPFJ000-recovered_cspp-ctdpf_j_cspp_instrument_recovered/main/history/response.json
-status: success
+status: pending
